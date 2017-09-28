@@ -1,9 +1,15 @@
 body {
-    background-color:lightyellow;
+    background-color: lightyellow;
 }
-h2   {
-    background-color:lightblue;
+
+h2 {
+    background-color: lightblue;
 }
-                      .abhishekAlign {
-    text-align:left;
+
+.abhishekAlign {
+    text-align: left;
+}
+
+div {
+    background-color: blue;
 }
