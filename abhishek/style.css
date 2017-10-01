@@ -14,5 +14,11 @@ div {
     background-color: pink;
 }
 .textBold {
-    font-weight: bolder;
+    font-weight: bolder; 
+    color: blue;
+}
+
+h1 {
+    
+    background-color: #FFFFFF
 }
