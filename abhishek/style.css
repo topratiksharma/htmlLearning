@@ -13,3 +13,6 @@ h2 {
 div {
     background-color: pink;
 }
+.textBold {
+    font-weight: bolder;
+}
